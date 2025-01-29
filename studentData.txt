@@ -1,0 +1,30 @@
+			Student Id :3
+			Student name: oajaj
+			Student Last Name: hsiuwi
+			Student's Father Name: hksks
+			student email: jaopoiw
+			Student phone number: 8372662
+			Student Year Of Birth: 2002
+			English Marks: 45
+			Urdu Marks: 46
+			Maths Marks: 47
+			Science Marks: 48
+			Computer Marks: 49
+			TOTAL MARKS : 235 /250 
+			PERCENTAGE: 94
+			GRADE: B
+			Student Id :2
+			Student name: suha
+			Student Last Name: agshhs
+			Student's Father Name: sghsjjjs
+			student email: hjqjsuhs
+			Student phone number: 267262
+			Student Year Of Birth: 2004
+			English Marks: 45
+			Urdu Marks: 44
+			Maths Marks: 46
+			Science Marks: 45
+			Computer Marks: 46
+			TOTAL MARKS : 226 /250 
+			PERCENTAGE: 90
+			GRADE: B
