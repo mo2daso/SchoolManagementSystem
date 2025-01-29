@@ -1,8 +1,8 @@
 Overview:
 
-This basic project shows working of funtions and how they are linked in C++.
+This basic project shows working of functions and how they are linked in C++.
 
 Tech Stack:
 
 - C++
-- Filling
+- File Handling
